@@ -1,1 +1,1 @@
-# Fanzuz-
+# Fanzuzы
