@@ -1,1 +1,1 @@
-# Fanzuzы
+# Franzuzы
