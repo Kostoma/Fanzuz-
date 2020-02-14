@@ -1,0 +1,318 @@
+государь_NOUN брат_NOUN мой_ADJF я_NPRO соглашаться_VERB возвратить_INFN герцогство_NOUN ольденбургский_ADJF герцог_NOUN
+хороший_ADJF принцип_NOUN
+да_PRCL здравствовать_VERB король_NOUN
+что_CONJ знать_VERB весь_ADJF москва_NOUN
+этот_ADJF милый_ADJF вера_NOUN
+нет_PRED сударыня_NOUN
+кто_NPRO извиняться_VERB тот_ADJF обвинять_VERB себя_NPRO
+немножечко_ADVB влюбить_PRTS в_PREP молодой_ADJF человек_NOUN
+только_PRCL что_CONJ леппий_ADJF быть_VERB готовый_ADJS составить_VERB экипаж_NOUN для_PREP он_NPRO лодка_NOUN из_PREP верный_ADJF и_CONJ умный_ADJF человек_NOUN и_CONJ послать_VERB курьер_NOUN к_PREP генерал_NOUN кутузов_NOUN чтобы_CONJ предупредить_INFN он_NPRO я_NPRO сообщить_VERB он_NPRO о_PREP это_NPRO внушить_VERB пожалуста_NOUN леппиха_NOUN чтоб_CONJ он_NPRO обратить_VERB хорошенько_ADVB внимание_NOUN на_PREP то_CONJ место_NOUN где_ADVB он_NPRO спуститься_VERB в_PREP один_ADJF раз_NOUN чтобы_CONJ не_PRCL ошибиться_INFN и_CONJ не_PRCL попасть_INFN в_PREP рука_NOUN враг_NOUN
+я_NPRO вы_NPRO быть_VERB угощать_INFN лагерь_NOUN
+между_PREP мы_NPRO
+род_NOUN укрепление_NOUN прима_NOUN толстой_NOUN
+ах_INTJ чорт_NOUN взять_VERB
+несчастный_ADJF они_NPRO не_PRCL знать_VERB что_CONJ я_NPRO они_NPRO завтра_ADVB покидать_VERB
+ну_PRCL так_CONJ ты_NPRO большой_COMP знаешь_CONJ чем_CONJ кто_NPRO бы_PRCL то_CONJ ни_PRCL быть_VERB
+война_NOUN должный_ADJS быть_INFN перенести_PRTS в_PREP пространство_NOUN эго_NOUN воззрение_NOUN я_NPRO не_PRCL мочь_VERB достаточно_ADVB восхвалить_INFN
+о_PREP да_PRCL так_CONJ как_CONJ цель_NOUN состоять_VERB в_PREP тот_ADJF чтоб_CONJ ослабить_INFN неприятель_NOUN то_CONJ нельзя_PRED принимать_INFN в_PREP внимание_NOUN потеря_NOUN частное_NOUN лицо_NOUN о_PREP да_PRCL
+перенести_INFN в_PREP пространство_NOUN
+в_PREP
+год_NOUN
+фабвие_NOUN
+ну_PRCL ещё_PRCL ну_PRCL крепкий_COMP
+нет_PRED пленный_NOUN они_NPRO заставлять_VERB истреблять_INFN себя_NPRO тем_CONJ худой_COMP для_PREP русский_ADJF армия_NOUN ну_PRCL ещё_PRCL ну_PRCL крепкий_COMP
+хорошо_ADVB пускай_CONJ войти_VERB и_CONJ фабвие_NOUN тоже_ADVB
+я_NPRO вы_NPRO сделать_VERB король_NOUN для_PREP тот_ADJF чтобы_CONJ царствовать_INFN не_PRCL а_CONJ
+слушать_VERB государь_NOUN
+до_PREP свидание_NOUN
+государь_NOUN весь_ADJF париж_NOUN сожалеть_VERB о_PREP ваш_ADJF отсутствие_NOUN
+очень_ADVB сожалеть_VERB что_CONJ заставить_VERB вы_NPRO проехаться_INFN так_CONJ далеко_ADVB
+я_NPRO ожидать_VERB не_PRCL менее_ADVB тот_ADJF как_CONJ найти_INFN вы_NPRO государь_NOUN у_PREP ворота_NOUN москва_NOUN
+римский_ADJF король_NOUN
+чудесно_ADVB
+да_PRCL здравствовать_VERB император_NOUN да_PRCL здравствовать_VERB римский_ADJF король_NOUN
+короткий_ADJF и_CONJ энергический_ADJF
+под_PREP москва_NOUN
+бальмашев_NOUN очень_ADVB приятно_ADVB познакомиться_INFN с_PREP вы_NPRO генерал_NOUN
+вы_NPRO слишком_ADVB добрый_ADJS ваш_ADJF величество_NOUN
+бородин_NOUN
+весь_ADJF сделаться_VERB в_PREP порядок_NOUN и_CONJ по_PREP метод_NOUN
+и_CONJ облик_NOUN мир_NOUN измениться_VERB бы_PRCL
+вино_NOUN откупорить_PRTS и_CONJ надо_PRED выпить_INFN он_NPRO
+да_PRCL здравствовать_VERB император_NOUN
+придворный_ADJF штат_NOUN императрица_NOUN
+ну_PRCL рапп_NOUN как_CONJ вы_NPRO думать_VERB хороший_ADJS ли_PRCL быть_VERB нынче_ADVB наш_ADJF дело_NOUN
+без_PREP всякий_ADJF сомнение_NOUN государь_NOUN
+вы_NPRO помнить_VERB ли_PRCL государь_NOUN тот_ADJF слово_NOUN который_ADJF вы_NPRO изволить_VERB сказать_INFN я_NPRO в_PREP смоленск_NOUN вино_NOUN откупорить_PRTS надо_PRED он_NPRO выпить_INFN
+ну_PRCL что_CONJ ж_CONJ генерал_NOUN дело_NOUN кажется_CONJ идти_VERB к_PREP война_NOUN
+бедный_ADJF армия_NOUN она_NPRO очень_ADVB уменьшиться_VERB от_PREP смоленск_NOUN фортуна_NOUN настоящий_ADJF распутница_NOUN рапп_NOUN я_NPRO всегда_ADVB это_PRCL говорить_VERB и_CONJ начинать_VERB испытывать_INFN но_CONJ гвардия_NOUN рапп_NOUN гвардия_NOUN целый_ADJS
+да_PRCL государь_NOUN
+раздать_VERB ли_PRCL сухарь_NOUN и_CONJ рис_NOUN гвардеец_NOUN
+да_PRCL государь_NOUN
+но_CONJ рис_NOUN
+наш_ADJF тело_NOUN есть_INTJ машина_NOUN для_PREP жизнь_NOUN оно_NPRO для_PREP это_NPRO устроить_PRTS оставить_VERB в_PREP немой_ADJS жизнь_NOUN в_PREP покой_NOUN пускай_CONJ она_NPRO сам_ADJF защищаться_VERB она_NPRO большой_COMP сделать_VERB один_ADJF чем_CONJ когда_CONJ вы_NPRO она_NPRO быть_VERB мешать_INFN лекарство_NOUN наш_ADJF тело_NOUN подобно_ADVB часы_NOUN который_ADJF должный_ADJS итти_NOUN известный_ADJF время_NOUN часовщик_NOUN не_PRCL мочь_VERB открыть_INFN они_NPRO и_CONJ только_PRCL ощупь_NOUN и_CONJ с_PREP завязать_PRTF глаз_NOUN мочь_VERB управлять_INFN они_NPRO наш_ADJF тело_NOUN есть_INTJ машина_NOUN для_PREP жизнь_NOUN
+вот_PRCL и_CONJ весь_ADJF
+завтра_ADVB мы_NPRO быть_VERB иметь_INFN дело_NOUN с_PREP кутузов_NOUN
+а_CONJ из_PREP старик_NOUN
+крещение_NOUN огонь_NOUN
+государь_NOUN император_NOUN русский_ADJF не_PRCL желать_VERB она_NPRO как_CONJ ваш_ADJF величество_NOUN изво_ADVB
+большой_ADJF редут_NOUN роковой_ADJF редут_NOUN центральный_ADJF редут_NOUN
+сказать_VERB неаполитанский_ADJF король_NOUN что_CONJ ещё_PRCL нет_PRED полдень_NOUN и_CONJ что_CONJ я_NPRO ещё_PRCL недостаточно_ADVB ясно_ADVB видеть_VERB положение_NOUN шахматы_NOUN ступать_VERB
+ну_PRCL что_CONJ ещё_PRCL
+государь_NOUN герцог_NOUN
+гусёнок_NOUN который_ADJF я_NPRO сделать_VERB орёл_NOUN
+адский_ADJF огонь_NOUN
+убираться_VERB к_PREP
+прокламация_NOUN короткий_ADJF и_CONJ энергический_ADJF
+железный_ADJF человек_NOUN
+пук_NOUN неприятельский_ADJF орлов_NOUN и_CONJ знамя_NOUN
+ваш_ADJF величество_NOUN
+за_PREP верста_NOUN от_PREP франция_NOUN я_NPRO не_PRCL мочь_VERB дать_INFN разгромить_INFN свой_ADJF гвардия_NOUN
+перенести_INFN в_PREP пространство_NOUN
+старый_ADJF господин_NOUN покойно_ADVB устроиться_VERB
+старое_NOUN господин_NOUN
+на_PREP это_PRCL самодурство_NOUN старое_NOUN господин_NOUN
+вы_NPRO стать_VERB быть_INFN не_PRCL думать_VERB как_CONJ другой_ADJF что_CONJ мы_NPRO должный_ADJS отступить_INFN
+мясо_NOUN для_PREP пушка_NOUN
+имя_NOUN ещё_PRCL хотеться_VERB
+государь_NOUN
+ещё_PRCL хотеться_VERB ну_PRCL и_CONJ задать_VERB имя_NOUN
+королевский_ADJF звание_NOUN иметь_VERB свой_ADJF обязанность_NOUN
+пол_NOUN сражение_NOUN быть_VERB великолепно_ADVB
+русский_ADJF война_NOUN должный_ADJS бы_PRCL быть_VERB быть_INFN самый_ADJF популярный_ADJF в_PREP новый_ADJF время_NOUN это_PRCL быть_VERB война_NOUN здравый_ADJF смысл_NOUN и_CONJ настоящий_ADJF выгода_NOUN война_NOUN спокойствие_NOUN и_CONJ безопасность_NOUN весь_ADJF она_NPRO быть_VERB чисто_ADVB миролюбивый_ADJF и_CONJ консервативный_ADJF
+из_PREP человек_NOUN который_ADJF переслать_VERB висла_NOUN половина_NOUN быть_VERB австриец_NOUN пруссак_NOUN саксонец_NOUN поляк_NOUN баварец_NOUN виртембергец_NOUN мекленбургец_NOUN испанец_NOUN итальянец_NOUN и_CONJ неаполитанец_NOUN императорский_ADJF армия_NOUN собственно_ADVB сказать_INFN быть_VERB на_PREP треть_NOUN составить_PRTS из_PREP голландец_NOUN бельгиец_NOUN житель_NOUN берег_NOUN рейн_NOUN пьемонтец_NOUN швейцарец_NOUN женевец_NOUN тосканец_NOUN
+хороший_ADJS ли_PRCL плохой_ADJS ли_PRCL мой_ADJF голова_NOUN а_CONJ положиться_INFN большой_COMP не_PRCL на_PREP кто_NPRO
+итак_CONJ господин_NOUN стать_VERB быть_INFN я_NPRO платить_INFN за_PREP перебить_PRTF горшок_NOUN
+je_null suis_null né_null tartare_null je_null voulus_null être_null romain_null les_null français_null m_null appelèrent_null barbare_null les_null russes_null georges_null dandin_null t_null e_null я_NPRO родиться_VERB татарин_NOUN я_NPRO хотеть_VERB быть_INFN римлянин_NOUN француз_NOUN называть_VERB я_NPRO варвар_NOUN русский_ADJF жорж_NOUN данден_NOUN
+вот_PRCL эгоизм_NOUN и_CONJ жестокость_NOUN мужчина_NOUN я_NPRO ничто_NPRO хороший_ADJF и_CONJ не_PRCL ожидать_VERB женщина_NOUN приносить_VERB себя_NPRO в_PREP жертва_NOUN вы_NPRO она_NPRO страдать_VERB и_CONJ вот_PRCL она_NPRO награда_NOUN ваш_ADJF высочество_NOUN какой_ADJF иметь_VERB вы_NPRO право_NOUN требовать_INFN от_PREP я_NPRO отчёт_NOUN в_PREP мой_ADJF привязанность_NOUN и_CONJ дружеский_ADJF чувство_NOUN это_PRCL человек_NOUN бывший_ADJF для_PREP я_NPRO большой_COMP чем_CONJ отец_NOUN
+ну_PRCL да_PRCL мочь_VERB быть_INFN чувство_NOUN который_ADJF он_NPRO питать_VERB к_PREP я_NPRO не_PRCL совсем_ADVB отеческий_ADJF но_CONJ ведь_CONJ это_NPRO не_PRCL следовать_VERB же_PRCL я_NPRO отказывать_INFN он_NPRO от_PREP мой_ADJF дом_NOUN я_NPRO не_PRCL мужчина_NOUN чтобы_CONJ платить_INFN неблагодарность_NOUN да_PRCL быть_VERB известно_PRED ваш_ADJF высочество_NOUN что_CONJ в_PREP мой_ADJF задушевный_ADJF чувство_NOUN я_NPRO отдавать_VERB отчёт_NOUN только_PRCL бог_NOUN и_CONJ мой_ADJF совесть_NOUN
+но_CONJ выслушать_VERB я_NPRO ради_PREP бог_NOUN жениться_VERB на_PREP я_NPRO и_CONJ я_NPRO быть_VERB ваша_NOUN раба_NOUN но_CONJ это_PRCL невозможно_ADVB вы_NPRO не_PRCL удостоивать_VERB снизойти_INFN до_PREP брак_NOUN с_PREP я_NPRO вы_NPRO
+жобер_NOUN иезуит_NOUN в_PREP короткий_ADJF платье_NOUN
+ах_INTJ любезный_ADJF генерал_NOUN я_NPRO желать_VERB от_PREP весь_ADJF душа_NOUN чтоб_CONJ император_NOUN покончить_VERB дело_NOUN между_PREP себя_NPRO и_CONJ чтобы_CONJ война_NOUN начать_PRTF против_PREP мой_ADJF воля_NOUN окончиться_VERB как_CONJ можно_PRED скорее_CONJ
+блюститель_NOUN совесть_NOUN
+благодать_NOUN
+в_PREP длинный_ADJF платье_NOUN
+грех_NOUN простительный_ADJF или_CONJ грех_NOUN смертный_ADJF
+блюститель_NOUN совесть_NOUN
+разобрать_VERB дело_NOUN графиня_NOUN
+элен_NOUN я_NPRO надо_PRED ты_NPRO сказать_INFN я_NPRO прослышать_VERB о_PREP некоторый_ADJF вид_NOUN касательно_PREP ты_NPRO знаешь_CONJ ну_PRCL так_CONJ милый_ADJF дитя_NOUN мой_ADJF ты_NPRO знаешь_CONJ что_CONJ сердце_NOUN отец_NOUN твой_ADJF радоваться_VERB тот_ADJF что_CONJ ты_NPRO ты_NPRO столько_ADVB терпеть_VERB но_CONJ милый_ADJF дитя_NOUN поступать_VERB как_CONJ велита_NOUN ты_NPRO сердце_NOUN вот_PRCL весь_ADJF мой_ADJF совет_NOUN
+в_PREP малое_NOUN комитет_NOUN
+послушать_VERB билибин_NOUN сказать_VERB я_NPRO как_CONJ бы_PRCL сказать_VERB вы_NPRO сестра_NOUN что_CONJ я_NPRO делать_INFN который_ADJF из_PREP два_NUMR
+вы_NPRO я_NPRO не_PRCL захватить_VERB врасплох_ADVB вы_NPRO знаете_CONJ как_CONJ истинный_ADJF друг_NOUN я_NPRO долго_ADVB обдумывать_VERB ваш_ADJF дело_NOUN вот_PRCL видеть_VERB если_CONJ выйти_INFN зa_null принц_NOUN то_CONJ вы_NPRO навсегда_ADVB лишаться_VERB возможность_NOUN быть_INFN жена_NOUN другой_ADJF и_CONJ вдобавок_ADVB двор_NOUN быть_VERB недовольный_ADJS вы_NPRO знаете_CONJ ведь_CONJ тут_ADVB замешать_PRTS родство_NOUN а_CONJ если_CONJ выйти_INFN за_PREP старое_NOUN граф_NOUN то_CONJ вы_NPRO составить_VERB счастие_NOUN последний_ADJF день_NOUN он_NPRO и_CONJ потом_ADVB принц_NOUN уже_ADVB не_PRCL быть_VERB унизительно_ADVB жениться_INFN на_PREP вдова_NOUN вельможа_NOUN
+я_NPRO вы_NPRO не_PRCL задерживать_VERB более_ADVB генерал_NOUN желать_VERB успех_NOUN ваш_ADJF посольство_NOUN
+вот_PRCL истинный_ADJF друг_NOUN но_CONJ ведь_CONJ я_NPRO любить_VERB тот_ADJF и_CONJ другой_ADJF и_CONJ не_PRCL хотеть_VERB бы_PRCL огорчать_INFN никто_NPRO для_PREP счастие_NOUN оба_NUMR я_NPRO готовый_ADJS пожертвовать_INFN жизние_NOUN
+вот_PRCL чтназываться_VERB твёрдо_ADVB поставить_INFN вопрос_NOUN она_NPRO хотеть_VERB бы_PRCL быть_INFN жена_NOUN весь_ADJF трое_NUMR в_PREP один_ADJF и_CONJ то_CONJ же_PRCL время_NOUN
+ах_INTJ он_NPRO я_NPRO так_CONJ любить_VERB он_NPRO на_PREP весь_ADJF для_PREP я_NPRO готовый_ADJS
+словечко_NOUN
+даже_PRCL и_CONJ на_PREP развод_NOUN
+ах_INTJ маменька_NOUN не_PRCL говорить_VERB глупость_NOUN вы_NPRO ничто_NPRO не_PRCL понимать_VERB в_PREP мыть_VERB положение_NOUN есть_INTJ обязанность_NOUN
+ах_INTJ маменька_NOUN как_CONJ вы_NPRO не_PRCL понимать_VERB что_CONJ святой_ADJF отец_NOUN иметь_PRTF власть_NOUN отпущение_NOUN
+нет_PRED сказать_VERB он_NPRO что_CONJ я_NPRO не_PRCL хотеть_VERB он_NPRO видеть_INFN что_CONJ я_NPRO беситься_VERB на_PREP он_NPRO потому_ADVB что_CONJ он_NPRO я_NPRO не_PRCL сдержать_VERB слово_NOUN графиня_NOUN есть_INTJ милосердие_NOUN для_PREP всякий_ADJF грех_NOUN
+затем_ADVB молить_VERB бог_NOUN да_PRCL быть_VERB вы_NPRO мой_ADJF друг_NOUN под_PREP святой_ADJF и_CONJ сильный_ADJF он_NPRO покров_NOUN друг_NOUN ваш_ADJF елена_NOUN
+достославный_ADJF подвиг_NOUN
+проливать_INFN или_CONJ не_PRCL проливать_INFN кровь_NOUN свой_ADJF народ_NOUN
+дать_VERB я_NPRO он_NPRO я_NPRO послать_VERB император_NOUN
+между_PREP мы_NPRO мой_ADJF милый_ADJF
+я_NPRO любезный_ADJF весь_ADJF хорошо_ADVB известно_PRED
+так_CONJ и_CONJ есть_INTJ
+мы_NPRO накануне_ADVB общий_ADJF бедствие_NOUN и_CONJ я_NPRO некогда_PRED быть_INFN любезный_ADJF с_PREP весь_ADJF с_PREP кто_NPRO у_PREP я_NPRO есть_INTJ дело_NOUN
+да_PRCL ничто_NPRO
+дружеский_ADJF совет_NOUN выбираться_VERB скорее_CONJ вот_PRCL чтó_null я_NPRO вы_NPRO сказать_VERB блаженный_ADJS кто_NPRO уметь_VERB слушаться_INFN
+святой_ADJF отцов_ADJF общество_NOUN иисусов_NOUN
+гобелен_NOUN
+дружок_NOUN
+этот_ADJF азиатский_ADJF город_NOUN с_PREP бесчисленный_ADJF церковь_NOUN москва_NOUN святой_ADJF они_NPRO москва_NOUN вот_PRCL наконец_ADVB этот_ADJF знаменитый_ADJF город_NOUN пора_NOUN
+граф_NOUN тюрен_NOUN
+город_NOUN занятый_ADJF неприятель_NOUN подобный_ADJS девушка_NOUN потерять_PRTF невинность_NOUN
+царь_NOUN
+но_CONJ мой_ADJF милосердие_NOUN всегда_ADVB готовый_ADJS низойти_INFN к_PREP победить_PRTF
+привести_VERB бояр_NOUN
+собрание_NOUN в_PREP дворец_NOUN царь_NOUN
+мой_ADJF мила_NOUN нежный_ADJF бедный_ADJF матерь_NOUN
+учреждение_NOUN посвятить_PRTF мой_ADJF мила_NOUN матерь_NOUN дом_NOUN мой_ADJF матерь_NOUN
+смешной_ADJF
+однакожа_NOUN надо_PRED сказать_INFN он_NPRO
+но_CONJ господин_NOUN
+ваш_ADJF величество_NOUN император_NOUN государь_NOUN мой_ADJF
+но_CONJ неловко_ADVB невозможно_ADVB
+москва_NOUN пустой_ADJS какой_ADJF невероятный_ADJF событие_NOUN
+не_PRCL удаться_VERB развязка_NOUN театральный_ADJF представление_NOUN
+сохранить_INFN спокойствие_NOUN в_PREP москва_NOUN и_CONJ выпроводить_INFN из_PREP нея_NOUN житель_NOUN
+вот_PRCL она_NPRO чернь_NOUN этот_ADJF подонок_NOUN народонаселение_NOUN плебей_NOUN который_ADJF они_NPRO поднять_VERB свой_ADJF глупость_NOUN имя_NOUN нужный_ADJS жертва_NOUN
+народный_ADJF толпа_NOUN страшный_ADJS она_NPRO отвратительный_ADJS они_NPRO как_CONJ волк_NOUN они_NPRO ничто_NPRO не_PRCL удовлетворить_VERB кроме_PREP мясо_NOUN
+у_PREP я_NPRO быть_VERB другой_ADJF обязанность_NOUN надо_PRED быть_VERB успокоить_INFN народ_NOUN много_ADVB другой_ADJF жертва_NOUN погибнуть_VERB и_CONJ гибнуть_VERB для_PREP общественный_ADJF благо_NOUN
+общественный_ADJF благо_NOUN
+путь_NOUN мой_ADJF быть_VERB бы_PRCL совсем_ADVB иначе_ADVB начертать_PRTS
+общественный_ADJF благо_CONJ
+дрожание_NOUN мой_ADJF левый_ADJF икра_NOUN есть_INTJ великий_ADJF признак_NOUN
+удобный_ADJF случаем_ADVB
+я_NPRO один_ADJF камень_NOUN делать_VERB два_NUMR удар_NOUN
+чернь_NOUN злодей_NOUN общественный_ADJF благо_CONJ
+пасть_VERB
+убрать_VERB это_PRCL
+этот_ADJF несчастный_ADJF наполнить_VERB священный_ADJF крепость_NOUN овладеть_VERB ружьё_NOUN арсенал_NOUN и_CONJ стрелять_VERB в_PREP француз_NOUN некоторый_ADJF из_PREP они_NPRO изрубить_VERB и_CONJ очистить_VERB кремль_NOUN от_PREP они_NPRO присутствие_NOUN
+дикий_ADJF патриотизм_NOUN растопчина_NOUN
+почтение_NOUN весь_ADJF компания_NOUN
+вы_NPRO хозяин_NOUN
+квартира_NOUN квартира_NOUN француз_NOUN добрый_ADJF ребята_NOUN чорт_NOUN взять_VERB не_PRCL быть_VERB ссориться_INFN дедушка_NOUN
+весь_ADJF это_NPRO он_NPRO быть_VERB бы_PRCL обязать_PRTS мой_ADJF дружба_NOUN о_PREP какой_ADJF прекрасный_ADJF царствование_NOUN мочь_VERB бы_PRCL быть_INFN царствование_NOUN император_NOUN александр_NOUN о_PREP какой_ADJF прекрасный_ADJF царствование_NOUN
+что_CONJ ж_CONJ неужели_PRCL и_CONJ тут_ADVB никто_NPRO не_PRCL говорить_VERB
+вы_NPRO не_PRCL раненый_ADJS
+но_CONJ на_PREP этот_ADJF раз_NOUN близко_ADVB быть_VERB
+кто_NPRO этот_ADJF человек_NOUN
+ах_INTJ я_NPRO право_NOUN в_PREP отчаяние_NOUN от_PREP тот_ADJF чтò_null случиться_VERB
+это_PRCL несчастный_ADJF сумасшедший_ADJF который_ADJF не_PRCL знать_VERB чтò_null делать_VERB
+разбойник_NOUN ты_NPRO я_NPRO поплатиться_VERB за_PREP это_PRCL наш_ADJF брат_NOUN милосердый_ADJS после_PREP победа_NOUN но_CONJ мы_NPRO не_PRCL прощать_VERB изменник_NOUN
+вы_NPRO спасти_VERB я_NPRO жизнь_NOUN вы_NPRO француз_NOUN
+мосье_NOUN рамбаля_NOUN капитан_NOUN лёгкое_NOUN полка_NOUN
+я_NPRO русский_ADJF
+государь_NOUN должный_ADJS находиться_INFN при_PREP армия_NOUN только_PRCL тогда_ADVB когда_CONJ он_NPRO полководец_NOUN
+рассказывать_VERB это_PRCL другой_ADJF
+сейчас_ADVB вы_NPRO я_NPRO весь_ADJF это_PRCL рассказать_VERB очень_ADVB приятно_ADVB встретить_INFN соотечественник_NOUN ну_PRCL что_CONJ же_PRCL мы_NPRO делать_INFN с_PREP это_NPRO человек_NOUN
+вы_NPRO спасти_VERB я_NPRO жизнь_NOUN вы_NPRO француз_NOUN вы_NPRO хотеть_VERB чтоб_CONJ я_NPRO простить_VERB он_NPRO я_NPRO прощать_VERB он_NPRO увести_INFN это_NPRO человек_NOUN
+когда_CONJ быть_VERB нужно_PRED вы_NPRO позвать_VERB
+капитан_NOUN у_PREP они_NPRO в_PREP кухня_NOUN есть_INTJ суп_NOUN и_CONJ жареный_ADJF баранина_NOUN приказать_VERB принести_INFN
+француз_NOUN или_CONJ русский_ADJF князь_NOUN инкогнито_ADVB
+я_NPRO обязать_PRTS вы_NPRO жизнь_NOUN и_CONJ я_NPRO предлагать_VERB вы_NPRO дружба_NOUN француз_NOUN никогда_ADVB не_PRCL забывать_VERB ни_PRCL оскорбление_NOUN ни_PRCL услуга_NOUN я_NPRO предлагать_VERB вы_NPRO мой_ADJF дружба_NOUN большой_COMP я_NPRO ничто_NPRO не_PRCL говорить_VERB
+капитан_NOUN рамбаля_NOUN лёгкое_NOUN полка_NOUN кавалер_NOUN почётный_ADJF легион_NOUN зa_null дело_NOUN сентябрь_NOUN
+быть_VERB ли_PRCL вы_NPRO так_CONJ добрый_ADJS сказать_INFN я_NPRO теперь_ADVB с_PREP кто_NPRO я_NPRO иметь_VERB честь_NOUN разговаривать_INFN так_CONJ приятно_ADVB вместо_PREP тот_ADJF чтобы_CONJ быть_INFN на_PREP перевязочный_ADJF пункт_NOUN с_PREP пуля_NOUN это_NPRO сумасшедший_ADJF в_PREP тело_NOUN
+полнота_NOUN пожалуйста_PRCL я_NPRO понимать_VERB вы_NPRO вы_NPRO офицер_NOUN мочь_VERB быть_INFN вы_NPRO служить_VERB против_PREP мы_NPRO это_PRCL не_PRCL мой_ADJF дело_NOUN я_NPRO обязать_PRTS вы_NPRO жизнь_NOUN я_NPRO это_NPRO довольно_ADVB и_CONJ я_NPRO весь_ADJF ваш_ADJF вы_NPRO дворянин_NOUN
+честной_ADJF слово_NOUN что_CONJ у_PREP я_NPRO тысяча_NOUN человек_NOUN по_PREP сю_INTJ сторона_NOUN висла_NOUN
+ваш_ADJF имя_NOUN я_NPRO большой_COMP ничто_NPRO не_PRCL спрашивать_VERB господин_NOUN пьер_NOUN вы_NPRO
+чудесно_ADVB превосходно_ADVB
+да_PRCL мой_ADJF любезный_ADJF господин_NOUN пьер_NOUN я_NPRO обязать_PRTS поставить_INFN за_PREP вы_NPRO добрый_ADJF свечка_NOUN за_PREP то_CONJ что_CONJ вы_NPRO спасти_VERB я_NPRO от_PREP это_NPRO бешеный_ADJF с_PREP я_NPRO видеть_VERB ли_PRCL довольно_ADVB тот_ADJF пуля_NOUN который_ADJF у_PREP я_NPRO в_PREP тело_NOUN вот_PRCL один_ADJF под_PREP ваграм_NOUN другой_ADJF под_PREP смоленск_NOUN а_CONJ этот_ADJF нога_NOUN вы_NPRO видеть_VERB который_ADJF не_PRCL хотеть_VERB двигаться_INFN это_PRCL при_PREP большой_ADJF сражение_NOUN под_PREP москва_NOUN о_PREP это_PRCL быть_VERB чудесно_ADVB надо_PRED быть_VERB видеть_INFN это_PRCL быть_VERB потоп_NOUN огонь_NOUN задать_VERB вы_NPRO мы_NPRO трудный_ADJF работа_NOUN мочь_VERB
+кстати_CONJ сказать_VERB пожалуста_NOUN правда_PRCL ли_PRCL что_CONJ весь_ADJF женщина_NOUN уехать_VERB из_PREP москва_NOUN странный_ADJF мысль_NOUN что_NPRO они_NPRO бояться_VERB
+ха_INTJ ха_INTJ ха_INTJ а_CONJ вот_PRCL сказать_VERB штука_NOUN
+ну_PRCL если_CONJ б_PRCL вы_NPRO я_NPRO не_PRCL сказать_VERB что_CONJ вы_NPRO русский_ADJF я_NPRO бы_PRCL побиться_VERB о_PREP заклад_NOUN что_CONJ вы_NPRO парижанин_NOUN в_PREP вы_NPRO есть_INTJ этот_ADJF
+я_NPRO быть_VERB в_PREP париж_NOUN я_NPRO провести_VERB там_ADVB целое_NOUN год_NOUN
+в_PREP весь_ADJF мир_NOUN один_ADJF париж_NOUN вы_NPRO быть_VERB в_PREP париж_NOUN и_CONJ остаться_VERB русский_ADJF ну_PRCL что_CONJ же_PRCL я_NPRO вы_NPRO за_PREP то_CONJ не_PRCL менее_ADVB уважать_VERB
+но_CONJ воротиться_VERB к_PREP ваш_ADJF дама_NOUN говорят_CONJ что_CONJ они_NPRO очень_ADVB красивый_ADJS чтό_null за_PREP дурацкий_ADJF мысль_NOUN поехать_INFN зарыться_INFN в_PREP степь_NOUN когда_CONJ французский_ADJF армия_NOUN в_PREP москва_NOUN они_NPRO пропустить_VERB чудесный_ADJF случай_NOUN ваш_ADJF мужик_NOUN я_NPRO понимать_VERB но_CONJ вы_NPRO человек_NOUN образовать_PRTF должный_ADJS бы_PRCL быть_VERB знать_INFN мы_NPRO хороший_COMP это_NPRO мы_NPRO брать_VERB вена_NOUN берлин_NOUN мадрид_NOUN неаполь_NOUN рим_NOUN варшава_NOUN весь_ADJF столица_NOUN мир_NOUN мы_NPRO бояться_VERB но_CONJ мы_NPRO любить_VERB не_PRCL вредный_ADJS знать_INFN мы_NPRO близкий_COMP и_CONJ потом_ADVB император_NOUN
+император_NOUN что_CONJ император_NOUN
+а_CONJ между_PREP тем_CONJ какой_ADJF прекрасный_ADJF царствование_NOUN мочь_VERB бы_PRCL иметь_INFN ваш_ADJF государь_NOUN
+император_NOUN это_PRCL великодушие_NOUN милосердие_NOUN справедливость_NOUN порядок_NOUN гений_NOUN вот_PRCL чтó_null такой_ADJF император_NOUN это_PRCL я_NPRO рамбаля_NOUN говорить_VERB вы_NPRO такой_ADJF какой_ADJF вы_NPRO я_NPRO видеть_VERB я_NPRO быть_VERB он_NPRO враг_NOUN тот_ADJF назад_ADVB восемь_NUMR год_NOUN мой_ADJF отец_NOUN быть_VERB граф_NOUN и_CONJ эмигрант_NOUN но_CONJ он_NPRO победить_VERB я_NPRO этот_ADJF человек_NOUN он_NPRO завладеть_VERB я_NPRO я_NPRO не_PRCL мочь_VERB устоять_INFN перед_PREP зрелище_NOUN величие_NOUN и_CONJ слава_NOUN который_ADJF он_NPRO покрывало_NOUN франция_NOUN когда_CONJ я_NPRO понять_VERB что_NPRO он_NPRO хотеть_VERB когда_CONJ я_NPRO увидать_VERB что_CONJ он_NPRO готовить_VERB для_PREP мы_NPRO ложа_NOUN лавров_NOUN я_NPRO сказать_VERB себя_NPRO вот_PRCL государь_NOUN и_CONJ я_NPRO отдаться_VERB он_NPRO и_CONJ вот_PRCL о_PREP да_PRCL мой_ADJF милый_ADJF это_PRCL самый_ADJF великий_ADJF человек_NOUN прошедшее_NOUN и_CONJ будущий_ADJF век_NOUN
+нет_PRED он_NPRO сделать_VERB свой_ADJF въезд_NOUN завтра_ADVB
+прелестно_ADVB полковник_NOUN этот_ADJF вюртембергец_NOUN он_NPRO немец_NOUN но_CONJ славный_ADJF малый_NOUN несмотря_PREP на_PREP это_PRCL но_CONJ немец_NOUN
+кстати_CONJ вы_NPRO стать_VERB быть_INFN знаете_CONJ
+как_CONJ убежище_NOUN
+убежище_NOUN убежище_NOUN unterkunft_null
+как_CONJ вы_NPRO говорить_VERB
+экий_ADJF дурень_NOUN этот_ADJF немец_NOUN неправда_NOUN ли_PRCL мосье_NOUN пьер_NOUN
+ну_PRCL ещё_PRCL бутылочка_NOUN это_NPRO московский_ADJF бордо_NOUN не_PRCL правда_PRCL ли_PRCL морель_NOUN согреть_VERB мы_NPRO ещё_PRCL бутылочка_NOUN морель_NOUN
+что_CONJ же_PRCL это_PRCL мы_NPRO грустный_ADJS
+не_PRCL удерживать_VERB вы_NPRO более_ADVB генерал_NOUN вы_NPRO получить_VERB мой_ADJF письмо_NOUN к_PREP государь_NOUN
+мочь_VERB я_NPRO огорчить_VERB вы_NPRO нет_PRED в_PREP самый_ADJF дело_NOUN не_PRCL иметь_VERB ли_PRCL вы_NPRO против_PREP я_NPRO мочь_VERB быть_INFN касательно_PREP положение_NOUN
+честной_ADJF слово_NOUN не_PRCL говорить_GRND уже_ADVB про_PREP то_CONJ чем_CONJ я_NPRO вы_NPRO обязать_PRTS я_NPRO чувствовать_VERB к_PREP вы_NPRO дружба_NOUN не_PRCL мочь_VERB ли_PRCL я_NPRO сделать_INFN для_PREP вы_NPRO располагать_VERB я_NPRO это_PRCL на_PREP жизнь_NOUN и_CONJ на_PREP смерть_NOUN я_NPRO говорить_VERB вы_NPRO это_PRCL класть_GRND рука_NOUN на_PREP сердце_NOUN
+а_CONJ в_PREP такой_ADJF случай_NOUN пить_VERB за_PREP наш_ADJF дружба_NOUN
+да_PRCL мой_ADJF друг_NOUN вот_PRCL колесо_NOUN фортуна_NOUN кто_NPRO сказать_VERB бы_PRCL я_NPRO что_CONJ я_NPRO быть_VERB солдат_NOUN и_CONJ капитан_NOUN драгунов_NOUN на_PREP служба_NOUN у_PREP бонапарт_NOUN как_CONJ мы_NPRO он_NPRO бывать_VERB называть_VERB однако_CONJ же_PRCL вот_PRCL я_NPRO в_PREP москва_NOUN с_PREP он_NPRO надо_PRED вы_NPRO сказать_INFN мой_ADJF милый_ADJF
+что_CONJ имя_NOUN наш_ADJF один_ADJF из_PREP самый_ADJF древние_NOUN в_PREP франция_NOUN
+мой_ADJF бедный_ADJF мать_NOUN
+но_CONJ весь_ADJF это_PRCL есть_INTJ только_PRCL вступление_NOUN в_PREP жизнь_NOUN сущность_NOUN же_PRCL она_NPRO это_PRCL любовь_NOUN любовь_NOUN не_PRCL правда_PRCL ли_PRCL мосье_NOUN пьер_NOUN ещё_PRCL стаканчик_NOUN
+о_PREP женщина_NOUN женщина_NOUN
+любовь_NOUN
+любовь_NOUN извощик_NOUN другой_ADJF любовь_NOUN дурнеть_VERB
+святой_ADJF
+воспоминание_NOUN о_PREP германия_NOUN где_ADVB муж_NOUN есть_VERB капустный_ADJF суп_NOUN и_CONJ где_ADVB молодая_NOUN девушка_NOUN слишком_ADVB белокурый_ADJS
+парижанка_NOUN сердце_NOUN
+я_NPRO спасти_VERB ваш_ADJF жизнь_NOUN и_CONJ спасать_VERB ваш_ADJF честь_NOUN
+вишь_PRCL ты_NPRO
+платонический_ADJF любовь_NOUN облако_NOUN
+тут_ADVB не_PRCL проходить_VERB
+это_NPRO чтó_null ещё_PRCL надо_PRED
+ребёнок_NOUN в_PREP это_NPRO дом_NOUN не_PRCL видать_VERB ли_PRCL вы_NPRO ребёнок_NOUN
+этот_ADJF чтó_null ещё_PRCL толковать_VERB убираться_VERB к_PREP чорт_NOUN
+ребёнок_NOUN я_NPRO слышать_VERB пищать_VERB в_PREP сад_NOUN мочь_VERB быть_INFN это_PRCL он_NPRO ребёнок_NOUN что_CONJ ж_CONJ надо_PRED по_PREP человечество_NOUN мы_NPRO весь_ADJF человек_NOUN где_ADVB он_NPRO где_ADVB он_NPRO
+государь_NOUN брат_NOUN мой_ADJF
+как_CONJ всякая_NPRO дорога_NOUN по_PREP пословица_NOUN вести_VERB в_PREP рим_NOUN так_CONJ и_CONJ весь_ADJF дорога_NOUN вести_VERB в_PREP москва_NOUN
+сюда_ADVB сюда_ADVB
+погодить_VERB я_NPRO сейчас_ADVB сойти_VERB
+эй_INTJ вы_NPRO живой_COMP припекать_INFN начинать_VERB
+вот_PRCL ваш_ADJF ребёнок_NOUN а_CONJ девочка_NOUN тем_CONJ хороший_COMP до_PREP свидание_NOUN толстяк_NOUN что_CONJ ж_CONJ надо_PRED по_PREP человечество_NOUN весь_ADJF человек_NOUN
+оставить_VERB этот_ADJF женщина_NOUN
+ну_PRCL ну_PRCL не_PRCL дурь_NOUN
+поручик_NOUN у_PREP он_NPRO кинжал_NOUN
+а_CONJ оружие_NOUN
+хорошо_ADVB хорошо_ADVB на_PREP суд_NOUN весь_ADJF рассказать_VERB
+по_PREP французски_ADVB знаешь_CONJ
+быть_INFN выдрать_PRTF за_PREP ухо_NOUN император_NOUN
+по_PREP французски_ADVB знаешь_CONJ
+позвать_VERB переводчик_NOUN
+он_NPRO не_PRCL похожий_ADJS на_PREP простолюдин_NOUN
+о_PREP о_PREP он_NPRO очень_ADVB похожий_ADJS на_PREP поджигатель_NOUN спросить_VERB он_NPRO кто_NPRO он_NPRO
+я_NPRO не_PRCL сказать_VERB вы_NPRO кто_NPRO я_NPRO я_NPRO ваш_ADJF пленный_NOUN увести_VERB я_NPRO
+а_CONJ а_CONJ ну_PRCL марш_INTJ
+что_NPRO она_NPRO нужно_PRED
+что_NPRO она_NPRO нужно_PRED она_NPRO нести_VERB дочь_NOUN мой_ADJF который_ADJF я_NPRO спасти_VERB из_PREP огонь_NOUN прощать_VERB
+чтό_null ж_CONJ вы_NPRO ничто_NPRO не_PRCL говорить_VERB обожатель_NOUN и_CONJ придворный_ADJF император_NOUN александр_NOUN
+придворный_ADJF и_CONJ обожатель_NOUN
+прощать_VERB андрей_NOUN помнить_VERB что_CONJ несчастие_NOUN происходить_VERB от_PREP бог_NOUN и_CONJ что_CONJ человек_NOUN никогда_ADVB не_PRCL бывать_VERB виноватый_ADJS
+быть_VERB занятый_ADJS дело_NOUN приём_NOUN государь_NOUN
+верхом_ADVB совершенство_NOUN
+основа_NOUN
+глупость_NOUN к_PREP чорт_NOUN весь_ADJF дело_NOUN
+должный_ADJS быть_INFN быть_VERB война_NOUN
+москва_NOUN священный_ADJF город_NOUN
+ведь_CONJ я_NPRO же_PRCL говорить_VERB что_CONJ весь_ADJF дело_NOUN пойти_VERB к_PREP чорт_NOUN
+что_CONJ же_PRCL касаться_VERB тот_ADJF кто_NPRO присоветовать_VERB дрисский_NOUN лагерь_NOUN что_CONJ же_PRCL касаться_VERB государь_NOUN до_PREP тот_ADJF человек_NOUN который_ADJF присоветовать_VERB лагерь_NOUN при_PREP
+это_NPRO итальянский_ADJF господин_NOUN очень_ADVB хорошо_ADVB
+тоже_ADVB хорошо_ADVB
+детский_ADJF игрушка_NOUN
+не_PRCL правда_PRCL ли_PRCL ваш_ADJF превосходительство_NOUN
+ну_PRCL да_PRCL что_CONJ ещё_PRCL тут_ADVB толковать_INFN
+сдаваться_VERB
+манер_NOUN держаться_INFN
+император_NOUN наполеон_NOUN
+да_PRCL здравствовать_VERB император_NOUN
+сорок_NUMR два_NUMR
+император_NOUN александр_NOUN русский_ADJF народ_NOUN
+член_NOUN
+русский_ADJF безухов_NOUN
+милый_ADJF
+становиться_VERB опасный_ADJF говорить_INFN на_PREP улица_NOUN
+общественный_ADJF договор_NOUN
+мой_ADJF многоуважаемый_ADJF возражатель_NOUN
+который_ADJF я_NPRO не_PRCL иметь_VERB честь_NOUN знать_INFN
+мясо_NOUN для_PREP пушка_NOUN
+император_NOUN о_PREP как_CONJ он_NPRO сам_ADJF взяться_VERB дело_NOUN закипеть_VERB теперь_ADVB походить_VERB она_NPRO бог_NOUN вот_PRCL он_NPRO ура_INTJ император_NOUN так_CONJ вот_PRCL они_NPRO азиатский_ADJF степь_NOUN однако_CONJ скверный_ADJF страна_NOUN до_PREP свидание_NOUN бош_NOUN я_NPRO ты_NPRO оставить_VERB хороший_ADJF дворец_NOUN в_PREP москва_NOUN ежели_CONJ я_NPRO сделать_VERB губернатор_NOUN в_PREP индия_NOUN я_NPRO ты_NPRO сделать_VERB министр_NOUN кашмир_NOUN ура_INTJ вот_PRCL он_NPRO видеть_VERB он_NPRO я_NPRO он_NPRO два_NUMR раз_NOUN как_CONJ ты_NPRO видеть_VERB маленький_ADJF капрал_NOUN я_NPRO видеть_VERB как_CONJ он_NPRO навесить_VERB крест_NOUN один_ADJF из_PREP старик_NOUN ура_INTJ император_NOUN
+батюшка_NOUN
+мясо_NOUN для_PREP пушка_NOUN
+свой_ADJF достойный_ADJF друг_NOUN
+в_PREP дипломатический_ADJF салон_NOUN свой_ADJF дочь_NOUN
+человек_NOUN с_PREP больший_ADJF достоинство_NOUN
+хлопоты_NOUN он_NPRO пропасть_VERB даром_ADVB
+человек_NOUN с_PREP больший_ADJF достоинство_NOUN
+вы_NPRO знаете_CONJ великий_ADJF новость_NOUN кутузов_NOUN фельдмаршал_NOUN
+наконец_ADVB вот_PRCL это_PRCL человек_NOUN
+но_CONJ говорят_CONJ он_NPRO слепнуть_VERB
+кто_NPRO хотеть_VERB погубить_INFN лишить_VERB разум_NOUN
+э_INTJ вздор_NOUN он_NPRO достаточно_ADVB видеть_VERB поверьте_CONJ
+э_INTJ вздор_NOUN он_NPRO достаточно_ADVB видеть_VERB поверьте_CONJ
+говорят_CONJ что_CONJ он_NPRO покраснеть_VERB как_CONJ барышня_NOUN который_ADJF бы_PRCL прочесть_VERB жоконда_NOUN в_PREP то_CONJ время_NOUN как_CONJ говорить_VERB он_NPRO государь_NOUN и_CONJ отечество_NOUN награждать_VERB вы_NPRO этой_NOUN честь_NOUN
+вы_NPRO знаете_CONJ что_CONJ он_NPRO сказать_VERB государь_NOUN
+я_NPRO он_NPRO давно_ADVB знать_VERB
+москва_NOUN азиатский_ADJF столица_NOUN этот_ADJF великий_ADJF империя_NOUN священный_ADJF город_NOUN народ_NOUN александр_NOUN москва_NOUN с_PREP свой_ADJF бесчисленный_ADJF церковь_NOUN в_PREP форма_NOUN китайский_ADJF пагода_NOUN
+ну_PRCL платовский_ADJF казак_NOUN
+очень_ADVB умный_ADJF и_CONJ болтун_NOUN
+казак_NOUN не_PRCL знать_GRND тот_ADJF общество_NOUN в_PREP который_ADJF он_NPRO находиться_VERB потому_ADVB что_CONJ простота_NOUN наполеон_NOUN не_PRCL иметь_VERB ничто_NPRO такой_ADJF что_CONJ бы_PRCL мочь_VERB открыть_INFN для_PREP восточный_ADJF воображение_NOUN присутствие_NOUN государь_NOUN разговаривать_VERB с_PREP чрезвычайный_ADJF фамильярность_NOUN о_PREP обстоятельство_NOUN настоящий_ADJF война_NOUN
+ежели_CONJ сражение_NOUN произойти_VERB прежде_ADVB три_NUMR день_NOUN то_CONJ француз_NOUN выиграть_VERB он_NPRO но_CONJ ежели_CONJ после_PREP три_NUMR день_NOUN то_CONJ бог_NOUN знать_VERB что_CONJ случиться_VERB
+государь_NOUN брат_NOUN мой_ADJF вчера_ADVB дошлый_ADJS до_PREP я_NPRO что_CONJ несмотря_PREP на_PREP прямодушие_NOUN с_PREP который_ADJF соблюдать_VERB я_NPRO мой_ADJF обязательство_NOUN в_PREP отношение_NOUN к_PREP ваш_ADJF императорский_ADJF величество_NOUN войско_NOUN ваш_ADJF переслать_VERB русский_ADJF граница_NOUN и_CONJ только_PRCL лишь_PRCL теперь_ADVB получить_VERB из_PREP петербург_NOUN нота_NOUN котора_NOUN граф_NOUN лористон_NOUN извещать_VERB я_NPRO по_PREP повод_NOUN сей_ADJF вторжение_NOUN что_CONJ ваш_ADJF величество_NOUN считать_VERB себя_NPRO в_PREP неприязненный_ADJF отношение_NOUN с_PREP я_NPRO с_PREP тот_ADJF время_NOUN как_CONJ князь_NOUN куракина_NOUN потребовать_VERB свой_ADJF паспорт_NOUN причина_NOUN на_PREP который_ADJF герцог_NOUN бассано_NOUN основывать_VERB свой_ADJF отказ_NOUN выдать_INFN сей_ADJF паспорт_NOUN никогда_ADVB не_PRCL мочь_VERB бы_PRCL заставить_INFN я_NPRO предполагать_INFN чтобы_CONJ поступок_NOUN мой_ADJF посол_NOUN послужить_VERB повод_NOUN к_PREP нападение_NOUN и_CONJ в_PREP действительность_NOUN он_NPRO не_PRCL иметь_VERB на_PREP то_CONJ от_PREP я_NPRO повеление_NOUN как_CONJ быть_VERB объявить_PRTS имя_NOUN сам_ADJF и_CONJ как_CONJ только_PRCL я_NPRO узнать_VERB о_PREP сем_PRCL то_CONJ немедленно_ADVB выразить_VERB мой_ADJF неудовольствие_NOUN князь_NOUN куракина_NOUN повелеть_GRND он_NPRO исполнять_INFN поручить_PRTF он_NPRO обязанность_NOUN ежели_CONJ ваш_ADJF величество_NOUN не_PRCL расположить_PRTS проливать_INFN кровь_NOUN наш_ADJF поддать_PRTF подобный_ADJF недоразумение_NOUN и_CONJ ежели_CONJ вы_NPRO согласный_ADJS вывести_INFN свой_ADJF войско_NOUN из_PREP русский_ADJF владение_NOUN то_CONJ я_NPRO оставить_VERB без_PREP внимание_NOUN весь_ADJF произойти_PRTF и_CONJ соглашение_NOUN между_PREP мы_NPRO быть_VERB возможно_CONJ в_PREP противный_ADJF случай_NOUN я_NPRO быть_VERB принудить_PRTS отражать_INFN нападение_NOUN который_ADJF ничто_NPRO не_PRCL быть_VERB возбудить_PRTS с_PREP мой_ADJF сторона_NOUN ваш_ADJF величество_NOUN ещё_PRCL иметь_VERB возможность_NOUN избавить_INFN человечество_NOUN от_PREP бедствие_NOUN новый_ADJF война_NOUN
+молодая_NOUN казак_NOUN заставить_VERB улыбнуться_INFN свой_ADJF могущественный_ADJF собеседник_NOUN
+на_PREP это_PRCL дитя_NOUN дон_NOUN
+едва_ADVB переводчик_NOUN наполеон_NOUN сказать_VERB это_PRCL казак_NOUN как_CONJ казак_NOUN охватить_PRTF остолбенение_NOUN не_PRCL произнести_VERB более_ADVB ни_PRCL один_ADJF слово_NOUN и_CONJ продолжать_VERB ехать_INFN не_PRCL спускать_GRND глаз_NOUN с_PREP завоеватель_NOUN имя_NOUN который_ADJF достигнуть_VERB до_PREP он_NPRO через_PREP восточный_ADJF степь_NOUN весь_ADJF он_NPRO разговорчивость_NOUN вдруг_ADVB прекратиться_VERB и_CONJ замениться_VERB наивный_ADJF и_CONJ молчаливый_ADJF чувство_NOUN восторг_NOUN наполеон_NOUN наградить_GRND
+птица_NOUN возвратить_PRTF родной_ADJF поль_NOUN
+милый_ADJF княжна_NOUN
+мамзель_NOUN бурьен_NOUN быть_VERB принимать_INFN он_NPRO с_PREP почесть_NOUN в_PREP богучаров_NOUN
+рыцарь_NOUN лебедь_NOUN
+мадам_NOUN де_PRCL жаилие_NOUN
+весь_ADJF приходить_VERB в_PREP время_NOUN для_PREP тот_ADJF кто_NPRO уметь_VERB ждать_INFN
+это_NPRO ухо_NOUN не_PRCL слышать_VERB вот_PRCL чтò_null плохо_PRED
+король_NOUN неаполитанский_ADJF
+в_PREP сомнение_NOUN мой_ADJF милый_ADJF воздерживаться_VERB
+войти_VERB сам_ADJF в_PREP себя_NPRO и_CONJ в_PREP этот_ADJF лодка_NOUN и_CONJ постараться_VERB чтоб_CONJ этот_ADJF лодка_NOUN не_PRCL сделаться_VERB для_PREP вы_NPRO лодка_NOUN харон_NOUN
+смешной_ADJS
+злоязычный_ADJF
+мой_ADJF рыцарь_NOUN
+когда_CONJ
+насмешливый_ADJS
+плохой_ADJS
+мадам_NOUN сюз_NOUN
+это_PRCL весь_ADJF москва_NOUN знать_VERB право_NOUN я_NPRO вы_NPRO удивляться_VERB
